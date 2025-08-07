@@ -1,4 +1,4 @@
-# React-Project-Practice-3
+# React-Simple-User-Manager
 ✅ پروژه: مدیریت کاربران ساده (Simple User Manager)
 
 📌 امکانات پروژه:
